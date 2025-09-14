@@ -1,8 +1,6 @@
 *.o
 *.txt
 *.so
-examples/Test_updateDictionary
-examples/Test_updateDictionary_beta.c
 *.d
 lib/obj
 programs/obj
